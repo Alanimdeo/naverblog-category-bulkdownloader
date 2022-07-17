@@ -1,0 +1,15 @@
+{
+  "name": "naverblog-category-bulkdownloader",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/alanimdeo/naverblog-category-bulkdownloader",
+  "author": "Alanimdeo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-html-parser": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.5"
+  }
+}
