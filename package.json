@@ -1,6 +1,6 @@
 {
   "name": "naverblog-category-bulkdownloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "repository": "https://github.com/alanimdeo/naverblog-category-bulkdownloader",
   "author": "Alanimdeo",
@@ -13,6 +13,6 @@
     "@types/node": "^18.0.5"
   },
   "scripts": {
-    "run": "node dist/index.js"
+    "start": "node dist/index.js"
   }
 }

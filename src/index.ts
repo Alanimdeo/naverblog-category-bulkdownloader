@@ -51,7 +51,7 @@ async function main() {
   }
 
   // 4-1. 다운로드 경로 지정
-  let downloadPath = await receiveInput("다운로드 경로를 입력하세요. (기본: ./downloads)");
+  let downloadPath = await receiveInput("\n다운로드 경로를 입력하세요. (기본: ./downloads)");
   if (downloadPath == "") {
     downloadPath = "./downloads";
   }
