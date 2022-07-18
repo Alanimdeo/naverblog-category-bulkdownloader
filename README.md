@@ -7,19 +7,19 @@
 1. 저장소 클론
 
    ```shell
-   $ git clone https://github.com/alanimdeo/naverblog-category-bulkdownloader.git
+   git clone https://github.com/alanimdeo/naverblog-category-bulkdownloader.git
    ```
 
 2. 모듈 설치
 
    ```shell
-   $ npm install # or yarn install
+   npm install # or yarn install
    ```
 
 3. 실행
 
    ```shell
-   $ npm start # or yarn start
+   npm start # or yarn start
    ```
 
    이후 과정은 설명에 따라 진행하시면 됩니다.
